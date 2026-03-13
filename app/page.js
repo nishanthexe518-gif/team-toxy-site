@@ -1,3 +1,4 @@
+// redeploy trigger 
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center text-center mt-32 gap-6">
